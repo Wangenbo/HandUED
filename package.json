@@ -1,6 +1,6 @@
 {
   "name": "HandUED",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "## 一、包含 - [CSS 开发规范](https://github.com/Wangenbo/HandUED/blob/master/%E6%8E%8C%E4%B8%8A%E5%A4%A7%E5%AD%A6CSS%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83.md) - [HTML 开发规范](https://github.com/Wangenbo/HandUED/blob/master/%E6%8E%8C%E4%B8%8A%E5%A4%A7%E5%AD%A6HTML%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83.md) - [JavaScript 开发规范](https://github.com/Wangenbo/HandUED/blob/master/%E6%8E%8C%E4%B8%8A%E5%A4%A7%E5%AD%A6Javascript%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83.md)",
   "main": "index.js",
   "scripts": {
