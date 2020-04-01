@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.3](https://github.com/Wangenbo/HandUED/compare/v1.0.2...v1.0.3) (2020-04-01)
+
+
+### Bug Fixes
+
+* 修复git4 ([4f33c87](https://github.com/Wangenbo/HandUED/commit/4f33c87c1667139d5b95a91fbf03aefe1543b9de))
+
 ### [1.0.2](https://github.com/Wangenbo/HandUED/compare/v1.0.1...v1.0.2) (2020-04-01)
 
 
